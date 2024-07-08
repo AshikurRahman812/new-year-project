@@ -177,3 +177,65 @@ span{
     padding: 16px 32px 16px 32px;
     margin-top: 20px;
 }
+
+.display-selate{
+    max-width: 1320px;
+    min-height: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    gap: 10%;
+    padding: 20px;
+    /* border: 1px solid red; */
+}
+.display-selate .item-1 h4{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 0px;
+    letter-spacing: 0%;
+    margin-bottom: 15px;
+}
+.display-selate .item-1 h1{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-align: justify;
+    text-transform: capitalize;
+}
+.display-selate .item-1 p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    width: 400px;
+    margin-top: 10px;
+}
+.display-selate .item-2 img{
+    height:100%;
+    width: 100%;
+    border-radius: 50%;
+    padding: 10px;
+    border: 10px solid rgb(255, 0, 0) ;
+}
+.display-selate .item-3 h2{
+    color: rgb(255, 0, 0);
+    font-size: 48px;
+}
+.display-selate .item-3 p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    width: 220px;
+    margin-bottom: 10px;
+}
