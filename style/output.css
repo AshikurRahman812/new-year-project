@@ -185,7 +185,7 @@ span{
     display: flex;
     justify-content:space-evenly;
     align-items: center;
-    gap: 10%;
+    gap:9%;
     padding: 20px;
     /* border: 1px solid red; */
 }
@@ -238,4 +238,82 @@ span{
     letter-spacing: 0%;
     width: 220px;
     margin-bottom: 10px;
+}
+
+.tag-content{
+    color: rgb(255, 0, 0);
+    
+}
+.holiday-section{
+    width: 1320px;
+    height: 986.07px;
+    margin: 0 auto;
+    margin-top: 20px;
+    position: relative;
+}
+.holiday-text{
+    text-align: center;
+}
+.holiday-text h2{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    margin-top: 10px;
+}
+.holiday-text h1{
+    font-family: Merriweather;
+    font-size: 45px;
+    font-weight: 900;
+    line-height: 80px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.holiday-text p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0%;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.solid-content{
+    width: 1320px;
+    height: 229px;
+    border-radius: 16px 0px 16px 16px;
+    background: rgb(255, 0, 0);
+    position: absolute;
+    top: 77%;
+}
+.gift-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24%;
+    width: 674.82px;
+    height: 577.96px;
+    position:absolute;
+    margin-top: 15%;
+    margin-left: 30px;
+    
+}
+.img-icon{
+    width: 700px;
+}
+.gril-contaner{
+    width: 429px;
+    height: 433px;
+    position: relative;
+    bottom: 26%;  
+}
+.discaound{
+    position: absolute;
+    left: 55%;
+    top: 40%;
+   
 }
