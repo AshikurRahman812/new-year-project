@@ -11,7 +11,7 @@
     margin: 0 auto;
     margin-top: 10px;
     border-radius: 16px;
-    background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url(../images/Banner\ Image.png);
+    background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url(../img/Banner\ Image.png);
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -97,7 +97,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url(../images/Vectorrr.png) ;
+    background-image: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url(../img/Vectorrr.png);
+    
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
